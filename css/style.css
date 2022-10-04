@@ -1643,7 +1643,8 @@ card
   background-color: #fff; }
 
 .cat-icon i {
-  font-size: 2.5rem !important; }
+  font-size: 2.5rem !important;
+  color: #4B3591; }
 
 .cat-label {
   font-size: 1.5rem;
